@@ -1,0 +1,36 @@
+_repo: Kozep-azsiai-utazas_69015
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vámbéry, Ármin
+    aliases:
+    - Vambery, Armin
+    - Vamberger, Hermann
+    - Vamberi, Armin German
+    - Bamberger, Hermann
+    - Vambéry, A.
+    birthdate: 1832
+    deathdate: 1913
+    gutenberg_agent_id: '41340'
+    url: http://www.gutenberg.org/2009/agents/41340
+    wikipedia:
+    - https://en.wikipedia.org/wiki/%C3%81rmin_V%C3%A1mb%C3%A9ry
+    - https://hu.wikipedia.org/wiki/V%C3%A1mb%C3%A9ry_%C3%81rmin
+description: ''
+gutenberg_issued: '2022-09-19'
+identifiers:
+  gutenberg: '69015'
+language: hu
+pgterms:marc905: 20220913234834vmbry
+pgterms:marc906: '1865'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Emich Gusztáv,1865.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Közép-ázsiai utazás
+url: http://www.gutenberg.org/ebooks/69015
