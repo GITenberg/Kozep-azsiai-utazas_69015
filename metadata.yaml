@@ -1,5 +1,8 @@
 _repo: Kozep-azsiai-utazas_69015
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vámbéry, Ármin
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/%C3%81rmin_V%C3%A1mb%C3%A9ry
     - https://hu.wikipedia.org/wiki/V%C3%A1mb%C3%A9ry_%C3%81rmin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69015#Kozep-azsiai-utazas
 gutenberg_issued: '2022-09-19'
 identifiers:
   gutenberg: '69015'
